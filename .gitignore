@@ -52,3 +52,10 @@ Mkfile.old
 dkms.conf
 
 .DS_Store
+.gitattributes
+*.userprefs
+packages/
+xamarin-base/xamarin-base.iOS/bin
+xamarin-base/xamarin-base.iOS/obj
+xamarin-base/xamarin-base.Droid/bin
+xamarin-base/xamarin-base.Droid/obj
