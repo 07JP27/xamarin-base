@@ -55,6 +55,8 @@ dkms.conf
 .gitattributes
 *.userprefs
 packages/
+xamarin-base/xamarin-base.Shared/bin
+xamarin-base/xamarin-base.Shared/onj
 xamarin-base/xamarin-base.iOS/bin
 xamarin-base/xamarin-base.iOS/obj
 xamarin-base/xamarin-base.Droid/bin
